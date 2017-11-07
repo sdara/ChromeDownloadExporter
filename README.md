@@ -1,0 +1,1 @@
+Chrome Download Exporter is a script you can run in your console to export download name and URL for everything in your downloads tab in Google Chrome. They sure didn't make it easy!
