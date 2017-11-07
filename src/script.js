@@ -7,6 +7,7 @@
 	
 	window.DOWNLOAD_EXPORTER.interval = null;
 	
+	window.DOWNLOAD_EXPORTER.delimiter = ',**SPLIT**,';
 	
 	window.DOWNLOAD_EXPORTER.old_date = '';
 	
